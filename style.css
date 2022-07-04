@@ -15,15 +15,15 @@ h1{
 p{
     color: rgb(95, 91, 85);
 }
-.top-part img{
+.all-part img{
     background-repeat: no-repeat;
     width: 75%;
 }
-.top-section{
+.all-section{
      display: flex;
      margin-bottom: 140px;
 }
-.top-part{
+.all-part{
     width: 50%;
     margin-left: 3%;
 }
