@@ -35,3 +35,8 @@ p{
     background-image: linear-gradient(purple, rgb(230, 113, 230));
     border-radius: 20px;
 }
+.middle-part{
+    background-image: url(images/img5.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
