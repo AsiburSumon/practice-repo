@@ -1,0 +1,37 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+.purple-color{
+    color: purple;
+}
+.red-color{
+    color: tomato;
+}
+h1{
+    font-size: 60px;
+    color: rgb(95, 91, 85);
+}
+p{
+    color: rgb(95, 91, 85);
+}
+.top-part img{
+    background-repeat: no-repeat;
+    width: 75%;
+}
+.top-section{
+     display: flex;
+     margin-bottom: 140px;
+}
+.top-part{
+    width: 50%;
+    margin-left: 3%;
+}
+.button{
+    text-decoration: none;
+    padding: 10px 8px;
+    font-size: 20px;
+    color: white;
+    background-image: linear-gradient(purple, rgb(230, 113, 230));
+    border-radius: 20px;
+}
