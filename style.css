@@ -15,6 +15,16 @@ h1{
 p{
     color: rgb(95, 91, 85);
 }
+h2{
+    color: rgb(27, 212, 245);
+    font-size: 35px;
+    text-align: center;
+}
+h3{
+    color: rgb(95, 91, 85);
+    font-size: 35px;
+    text-align: left;
+}
 .all-part img{
     background-repeat: no-repeat;
     width: 75%;
@@ -39,4 +49,51 @@ p{
     background-image: url(images/img5.jpg);
     background-repeat: no-repeat;
     background-size: cover;
+}
+.last-part p{
+    text-align: center;
+}
+.bottom-part{
+    width: 50%;
+    margin-left: 5%;
+    margin-right: 5%;
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 15px;
+    padding-left: 15px;
+    padding-top: 20px;
+}
+.bottom-part img{
+    width: 50%;
+}
+.bottom-part .image{
+    width: 500px;
+}
+.finish-part{
+    width: 70%;
+    height: 180px;
+    border-radius: 15px;
+    box-shadow: 10px 10px 35px gray;
+    margin-left: 15%;
+    margin-right: 20%;
+}
+.finish-part .vab-nimu{
+    color: black;
+    font-size: 40px;
+}
+.last{
+    margin-left: 16%;
+}
+footer{
+    width: 100%;
+    height: 120px;
+    background-color: black;
+}
+.footer-text{
+    color: gray;
+}
+.yeap{
+    color: rgb(243, 45, 45);
+}
+.last-para{
+    text-align: center;
 }
